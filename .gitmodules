@@ -1,0 +1,3 @@
+[submodule "SimpleAmqpClient"]
+	path = SimpleAmqpClient
+	url = https://github.com/alanxz/SimpleAmqpClient
